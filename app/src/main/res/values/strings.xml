@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+    <string name="PREF_User">PREF_USER</string>
+</resources>
